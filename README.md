@@ -74,7 +74,7 @@
 - 081 - Search in Rotated Sorted Array II [\[C++\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/C%2B%2B/Arrays/SearchInRotatedArrayII.cpp)  [\[C#\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/CSharp/Arrays.cs)
 
 
-- 088 - Merge Sorted Arrays [\[C++\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/C%2B%2B/Arrays/MergeSortedArray.cpp)  [\[C#\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/CSharp/Arrays.cs)
+- 088 - Merge Sort Arrays [\[C++\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/C%2B%2B/Arrays/MergeSortedArray.cpp)  [\[C#\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/CSharp/Arrays.cs)
 
 - 118 - Pascal Triangle [\[C++\]](https://github.com/notaspacecowboy/leetcode/blob/master/Solutions/C%2B%2B/Arrays/PascalTriangle.cpp) 
 
